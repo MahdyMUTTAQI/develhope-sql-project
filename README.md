@@ -1,5 +1,4 @@
-# Develhope
-# Northwind Database SQL Project
+# Northwind Database SQL Project - Develhope
 
 ### Team Members:
 * Emre CAN
