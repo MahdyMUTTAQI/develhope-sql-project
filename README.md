@@ -1,3 +1,3 @@
 # Develhope
-# Northwind DB SQL Project
+# Northwind Database SQL Project
 The codes will be added very soon
